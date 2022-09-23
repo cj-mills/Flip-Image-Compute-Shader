@@ -5,4 +5,4 @@
 
 ## Tutorial Link
 
-[How to Flip an Image With a Compute Shader](https://christianjmills.com/How-to-Flip-an-Image-With-a-Compute-Shader/)
+[How to Flip an Image With a Compute Shader](https://christianjmills.com/posts/flip-image-compute-shader-tutorial/)
